@@ -1,0 +1,80 @@
+footer{
+    background-color: #2b3035;
+    color: #b3b3ba;
+}
+
+.footercontainer{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    background-color: #2b3035;
+    border: 0px solid;
+    margin-top: 10px;
+}
+
+.icons1{
+    height: 40px;
+    width: 50px;
+    margin: 10px 20px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 0px solid;
+    background-color: #2b3035;
+    color: #26c943; 
+}
+
+.icons2{
+    height: 40px;
+    width: 50px;
+    margin: 10px 20px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 0px solid;
+    background-color: #2b3035;
+    color: #29a0da; 
+}
+
+.icons3{
+    height: 40px;
+    width: 50px;
+    margin: 10px 20px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 0px solid;
+    background-color: #2b3035;
+    color: #e34132; 
+}
+
+.icons1:hover{
+    background-color: #26c943;
+    color: #2b3035; 
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.icons2:hover{
+    background-color: #29a0da;
+    color: #2b3035; 
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.icons3:hover{
+    background-color: #e34132;
+    color: #2b3035; 
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.djm{
+    font-size: 15px;
+    text-align: right;
+    margin-right: 25px;
+    padding: 20px;    
+    font-weight: 500;
+}
+
+.ayudanos{
+    font-size: 15px;
+    padding-top: 20px;
+}

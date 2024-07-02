@@ -1,0 +1,22 @@
+
+.subcontainerBAQ{
+    background-color:#1b1f22;
+    border: 1px solid #6e2cf3;
+    width: 470px;
+    height: 750px;
+    border-radius: 20px;
+    margin: 10px 10px;
+    box-shadow:  5px 5px 2.5px #4a1ea4;   
+}
+
+.subcontainerBAQ a{
+text-decoration: none;
+color: #b3b3ba;
+width: 100%;
+border: 0px solid #fff;
+padding: 0px 50px;
+}
+
+.subcontainerBAQ h1{
+    color: #b3b3ba;
+}
